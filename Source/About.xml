@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Support Beams</name>
+  <author>Vectricity</author>
+  <url>https://ludeon.com/forums/index.php?topic=34053.0</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <description>
+A support beam. Functions like a wall — doesn't get in your way. Made with metal, wood, or stone.
+
+Version 1.2
+  </description>
+  <packageId>Bennington.SupportBeams</packageId>
+</ModMetaData>
