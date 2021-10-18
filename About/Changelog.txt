@@ -1,4 +1,7 @@
 # Changelog for SupportBeams
 
+1.0.1.0 - Missed to add the 1.0 tag
+
+
 1.0.0.0 - First publish
 
