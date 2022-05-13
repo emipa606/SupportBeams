@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef ParentName="BuildingBase" Name="Wall">
+  <ThingDef ParentName="BuildingBase" Name="SupportBeam">
     <defName>SupportBeam</defName>
     <label>support beam</label>
     <description>A support beam. Capable of holding up a roof.</description>

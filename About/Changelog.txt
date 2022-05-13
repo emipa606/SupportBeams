@@ -1,5 +1,8 @@
 # Changelog for SupportBeams
 
+1.3.1 - Fixed an old overwrite
+
+
 1.0.1.0 - Missed to add the 1.0 tag
 
 
