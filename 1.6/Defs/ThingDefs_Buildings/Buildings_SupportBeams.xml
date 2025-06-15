@@ -37,7 +37,7 @@
     <blockWind>false</blockWind>
     <fillPercent>0</fillPercent>
     <coversFloor>false</coversFloor>
-    <placingDraggableDimensions>1</placingDraggableDimensions>
+    <drawStyleCategory>Walls</drawStyleCategory>
     <tickerType>Never</tickerType>
     <rotatable>false</rotatable>
     <selectable>true</selectable>
